@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "no_container": "TCNU7660378",
+      "size": "20",
+      "type": "Dry",
+      "slot": "10",
+      "row": "2",
+      "tier": "2"
+    },
+    {
+      "id": 2,
+      "no_container": "APZU4722870",
+      "size": "20",
+      "type": "Dry",
+      "slot": "10",
+      "row": "2",
+      "tier": "2"
+    },
+    {
+      "id": 3,
+      "no_container": "TCNU7422169",
+      "size": "40",
+      "type": "Dry",
+      "slot": "10",
+      "row": "2",
+      "tier": "2"
+    },
+    {
+      "id": 4,
+      "no_container": "MSKU8268607",
+      "size": "40",
+      "type": "Rfr",
+      "slot": "10",
+      "row": "2",
+      "tier": "2"
+    },
+    {
+      "id": 5,
+      "no_container": "MSKU8268700",
+      "size": "40",
+      "type": "Rfr",
+      "slot": "10",
+      "row": "2",
+      "tier": "2"
+    }
+  ]
+}
